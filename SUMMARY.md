@@ -4,4 +4,5 @@
 * [Start Python](chapter1.md)
    * Python skill
 * Anaconda and Jupyter notebook
+   * Install Anaconda
 
