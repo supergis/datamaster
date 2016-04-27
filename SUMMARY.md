@@ -5,4 +5,5 @@
    * Python skill
 * Anaconda and Jupyter notebook
    * Install Anaconda
+   * Install Jupyter
 
